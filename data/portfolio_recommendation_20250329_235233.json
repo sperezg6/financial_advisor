@@ -1,0 +1,89 @@
+{
+    "timestamp": "20250329_235233",
+    "user_profile": {
+        "risk_tolerance": 5,
+        "time_horizon": 5,
+        "focus_sectors": null,
+        "investment_amount": null
+    },
+    "recommended_assets": [
+        {
+            "ticker": "MSFT",
+            "name": "Microsoft Corporation",
+            "type": "stock",
+            "justification": "Stable cash flows and growing cloud business."
+        },
+        {
+            "ticker": "AMZN",
+            "name": "Amazon.com, Inc.",
+            "type": "stock",
+            "justification": "Dominant e-commerce player with expanding services."
+        },
+        {
+            "ticker": "GOOGL",
+            "name": "Alphabet Inc.",
+            "type": "stock",
+            "justification": "Leading search engine and growing cloud business."
+        },
+        {
+            "ticker": "V",
+            "name": "Visa Inc.",
+            "type": "stock",
+            "justification": "Stable payment processing business with global reach."
+        },
+        {
+            "ticker": "TSLA",
+            "name": "Tesla, Inc.",
+            "type": "stock",
+            "justification": "Leading electric vehicle manufacturer with growing energy business."
+        },
+        {
+            "ticker": "XPO",
+            "name": "XPO Logistics, Inc.",
+            "type": "stock",
+            "justification": "Growing logistics and transportation company with strong e-commerce exposure."
+        },
+        {
+            "ticker": "ETN",
+            "name": "iShares North American ETF",
+            "type": "ETF",
+            "justification": "Diversified portfolio of US stocks with low fees."
+        },
+        {
+            "ticker": "EMTL",
+            "name": "VanEck Emerging Markets ETF",
+            "type": "ETF",
+            "justification": "Exposure to emerging markets with a focus on growth and value."
+        },
+        {
+            "ticker": "ARKK",
+            "name": "ARK Innovation ETF",
+            "type": "ETF",
+            "justification": "Focus on innovation and disruption in various sectors, including technology and healthcare."
+        }
+    ],
+    "portfolio_allocations": {
+        "MSFT": 15.15,
+        "AMZN": 15.15,
+        "GOOGL": 15.15,
+        "V": 15.15,
+        "TSLA": 15.15,
+        "XPO": 15.15,
+        "ETN": 3.03,
+        "EMTL": 3.03,
+        "ARKK": 3.03
+    },
+    "dollar_allocations": null,
+    "portfolio_metrics": {
+        "volatility": 0.2356,
+        "expected_return": 0.0087,
+        "sharpe_ratio": 0.037,
+        "diversification_score": 0.6252
+    },
+    "risk_assessment": {
+        "risk_match": "too_aggressive",
+        "recommendation": "Consider reducing exposure to volatile assets to better match your risk tolerance."
+    },
+    "strategy": "Error in processing response",
+    "reasoning": "Could not parse structured data from the LLM response."
+}

@@ -1,0 +1,82 @@
+{
+    "timestamp": "20250329_235356",
+    "user_profile": {
+        "risk_tolerance": 3,
+        "time_horizon": 2,
+        "focus_sectors": null,
+        "investment_amount": null
+    },
+    "recommended_assets": [
+        {
+            "ticker": "MSFT",
+            "name": "Microsoft Corporation",
+            "type": "stock",
+            "justification": "Stable dividend payer with a strong track record of innovation and growth."
+        },
+        {
+            "ticker": "AMZN",
+            "name": "Amazon.com, Inc.",
+            "type": "stock",
+            "justification": "Dominant e-commerce player with significant opportunities for future growth in cloud computing and advertising."
+        },
+        {
+            "ticker": "VZ",
+            "name": "Verizon Communications Inc.",
+            "type": "stock",
+            "justification": "Stable dividend payer with a strong track record of cash flow generation and a growing presence in the 5G market."
+        },
+        {
+            "ticker": "TSLA",
+            "name": "Tesla, Inc.",
+            "type": "stock",
+            "justification": "Leading electric vehicle manufacturer with significant opportunities for future growth in autonomous driving and energy storage."
+        },
+        {
+            "ticker": "JPM",
+            "name": "JPMorgan Chase & Co.",
+            "type": "stock",
+            "justification": "Stable dividend payer with a strong track record of financial performance and a growing presence in the digital banking space."
+        },
+        {
+            "ticker": "XPO",
+            "name": "XPO Logistics, Inc.",
+            "type": "stock",
+            "justification": "Logistics company with significant opportunities for future growth in e-commerce fulfillment and supply chain management."
+        },
+        {
+            "ticker": "ET",
+            "name": "iShares MSCI Emerging Markets ETF",
+            "type": "ETF",
+            "justification": "Diversified emerging markets ETF with a strong track record of performance and exposure to growing economies like China and India."
+        },
+        {
+            "ticker": "VWO",
+            "name": "Vanguard FTSE Emerging Markets ETF",
+            "type": "ETF",
+            "justification": "Low-cost emerging markets ETF with a broad portfolio of stocks from around the world, providing diversification benefits for investors."
+        }
+    ],
+    "portfolio_allocations": {
+        "MSFT": 12.5,
+        "AMZN": 12.5,
+        "VZ": 12.5,
+        "TSLA": 12.5,
+        "JPM": 12.5,
+        "XPO": 12.5,
+        "ET": 12.5,
+        "VWO": 12.5
+    },
+    "dollar_allocations": null,
+    "portfolio_metrics": {
+        "volatility": 0.1828,
+        "expected_return": 0.0112,
+        "sharpe_ratio": 0.0615,
+        "diversification_score": 0.6464
+    },
+    "risk_assessment": {
+        "risk_match": "too_aggressive",
+        "recommendation": "Consider reducing exposure to volatile assets to better match your risk tolerance."
+    },
+    "strategy": "Create a balanced portfolio by combining the most appropriate assets, with a focus on VZ and ET for their relatively low volatility and high Sharpe ratio. Add some exposure to VWO for its moderate returns and low downside deviation.",
+    "reasoning": "Based on the client's risk tolerance of 3, we can identify the most suitable assets as those that balance return potential with risk management. VZ and ET exhibit relatively low volatility and high Sharpe ratios, making them attractive options. VWO, while not extremely aggressive, offers moderate returns and a relatively low downside deviation, which aligns well with the client's risk tolerance. On the other hand, TSLA and XPO are too risky due to their high volatility and potential for significant drawdowns. MSFT and AMZN, while having some appeal, may be too conservative for this risk tolerance, as they offer relatively low returns compared to the overall market."
+}

@@ -1,0 +1,82 @@
+{
+    "timestamp": "20250329_235502",
+    "user_profile": {
+        "risk_tolerance": 1,
+        "time_horizon": 10,
+        "focus_sectors": null,
+        "investment_amount": null
+    },
+    "recommended_assets": [
+        {
+            "ticker": "MSFT",
+            "name": "Microsoft Corporation",
+            "type": "stock",
+            "justification": "Stable dividend payer with a strong track record of innovation and growth."
+        },
+        {
+            "ticker": "JPM",
+            "name": "JPMorgan Chase & Co.",
+            "type": "stock",
+            "justification": "Well-capitalized bank with a diversified revenue stream and a history of resilience."
+        },
+        {
+            "ticker": "V",
+            "name": "Visa Inc.",
+            "type": "stock",
+            "justification": "Leader in the digital payments space with a strong brand and consistent growth."
+        },
+        {
+            "ticker": "TSLA",
+            "name": "Tesla, Inc.",
+            "type": "stock",
+            "justification": "Pioneer in electric vehicles and clean energy solutions with significant growth potential."
+        },
+        {
+            "ticker": "AMZN",
+            "name": "Amazon.com, Inc.",
+            "type": "stock",
+            "justification": "E-commerce leader with a strong track record of innovation and expansion into new markets."
+        },
+        {
+            "ticker": "XLF",
+            "name": "Financial Select Sector SPDR ETF",
+            "type": "ETF",
+            "justification": "Provides exposure to the US financial sector, which has historically been resilient during market downturns."
+        },
+        {
+            "ticker": "VWO",
+            "name": "Vanguard FTSE Emerging Markets ETF",
+            "type": "ETF",
+            "justification": "Offers broad diversification across emerging markets, which can provide a hedge against US market volatility."
+        },
+        {
+            "ticker": "ARKK",
+            "name": "ARK Innovation ETF",
+            "type": "ETF",
+            "justification": "Focuses on disruptive innovation and growth opportunities in areas like fintech, healthcare, and energy."
+        }
+    ],
+    "portfolio_allocations": {
+        "MSFT": 13.33,
+        "JPM": 13.33,
+        "V": 13.33,
+        "TSLA": 13.33,
+        "AMZN": 13.33,
+        "XLF": 11.11,
+        "VWO": 11.11,
+        "ARKK": 11.11
+    },
+    "dollar_allocations": null,
+    "portfolio_metrics": {
+        "volatility": 0.2144,
+        "expected_return": 0.0124,
+        "sharpe_ratio": 0.0578,
+        "diversification_score": 0.6451
+    },
+    "risk_assessment": {
+        "risk_match": "too_aggressive",
+        "recommendation": "Consider reducing exposure to volatile assets to better match your risk tolerance."
+    },
+    "strategy": "Create a balanced portfolio by combining the conservative assets (V, XLF) with some moderate-risk assets that align with the client's risk tolerance.",
+    "reasoning": "The client's risk tolerance of 1 indicates a very conservative approach. Assets like V and XLF have relatively low volatility and drawdowns, making them suitable for this risk profile. MSFT and AMZN, on the other hand, are too aggressive for this client, with higher volatility and potential losses. TSLA and ARKK are even more risky, with high volatility and significant potential losses. By combining V and XLF with some moderate-risk assets (e.g., JPM or VWO), we can create a portfolio that balances risk and return."
+}

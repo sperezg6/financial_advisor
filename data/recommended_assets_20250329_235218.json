@@ -1,0 +1,56 @@
+[
+    {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "type": "stock",
+        "justification": "Stable cash flows and growing cloud business."
+    },
+    {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "type": "stock",
+        "justification": "Dominant e-commerce player with expanding services."
+    },
+    {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "type": "stock",
+        "justification": "Leading search engine and growing cloud business."
+    },
+    {
+        "ticker": "V",
+        "name": "Visa Inc.",
+        "type": "stock",
+        "justification": "Stable payment processing business with global reach."
+    },
+    {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "type": "stock",
+        "justification": "Leading electric vehicle manufacturer with growing energy business."
+    },
+    {
+        "ticker": "XPO",
+        "name": "XPO Logistics, Inc.",
+        "type": "stock",
+        "justification": "Growing logistics and transportation company with strong e-commerce exposure."
+    },
+    {
+        "ticker": "ETN",
+        "name": "iShares North American ETF",
+        "type": "ETF",
+        "justification": "Diversified portfolio of US stocks with low fees."
+    },
+    {
+        "ticker": "EMTL",
+        "name": "VanEck Emerging Markets ETF",
+        "type": "ETF",
+        "justification": "Exposure to emerging markets with a focus on growth and value."
+    },
+    {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "type": "ETF",
+        "justification": "Focus on innovation and disruption in various sectors, including technology and healthcare."
+    }
+]

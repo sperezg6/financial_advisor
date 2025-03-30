@@ -1,0 +1,16 @@
+{
+    "appropriate_assets": [
+        "VWO",
+        "SPY"
+    ],
+    "too_risky_assets": [
+        "AAPL",
+        "QQQ",
+        "GLD"
+    ],
+    "too_conservative_assets": [
+        "BND"
+    ],
+    "portfolio_strategy": "A balanced portfolio with a mix of moderate-risk assets and some conservative assets to provide stability",
+    "reasoning": "The client's risk tolerance of 5 suggests they are willing to take on some level of risk, but still want to maintain some stability in their portfolio. Assets like VWO and SPY have moderate volatility and returns, making them suitable for this risk profile. AAPL, QQQ, and GLD have higher volatility and returns, which may be too risky for the client. BND is too conservative and may not provide enough return to meet the client's investment goals."
+}

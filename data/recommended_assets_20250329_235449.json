@@ -1,0 +1,50 @@
+[
+    {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "type": "stock",
+        "justification": "Stable dividend payer with a strong track record of innovation and growth."
+    },
+    {
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "type": "stock",
+        "justification": "Well-capitalized bank with a diversified revenue stream and a history of resilience."
+    },
+    {
+        "ticker": "V",
+        "name": "Visa Inc.",
+        "type": "stock",
+        "justification": "Leader in the digital payments space with a strong brand and consistent growth."
+    },
+    {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "type": "stock",
+        "justification": "Pioneer in electric vehicles and clean energy solutions with significant growth potential."
+    },
+    {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "type": "stock",
+        "justification": "E-commerce leader with a strong track record of innovation and expansion into new markets."
+    },
+    {
+        "ticker": "XLF",
+        "name": "Financial Select Sector SPDR ETF",
+        "type": "ETF",
+        "justification": "Provides exposure to the US financial sector, which has historically been resilient during market downturns."
+    },
+    {
+        "ticker": "VWO",
+        "name": "Vanguard FTSE Emerging Markets ETF",
+        "type": "ETF",
+        "justification": "Offers broad diversification across emerging markets, which can provide a hedge against US market volatility."
+    },
+    {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "type": "ETF",
+        "justification": "Focuses on disruptive innovation and growth opportunities in areas like fintech, healthcare, and energy."
+    }
+]
